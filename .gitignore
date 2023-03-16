@@ -50,6 +50,7 @@ ExportedObj/
 
 # Unity3D generated file on crash reports
 sysinfo.txt
+/UserSettings/AIHelperSettings.asset
 
 # Builds
 *.apk
