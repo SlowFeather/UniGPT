@@ -3,7 +3,7 @@ Your Unity AI assistant ^_^
 
 This is a AI assistant for Unity.
 
-![UniGPT - Your Unity AI assistant](https://i.postimg.cc/MKNfbrym/unigpt.png)
+![UniGPT - Your Unity AI assistant](https://i.postimg.cc/DwznCqTf/unigpt.png)
 
 ## How to try it
 
