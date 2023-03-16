@@ -15,4 +15,4 @@ and set it on the Project Settings page (Edit > Project Settings > ChatAI > API 
 You must exclude the directory when sharing your project with others.
 
 ## Thanks
-[keijiro/AIShader](hhttps://github.com/keijiro/AIShader)
+![keijiro/AIShader](hhttps://github.com/keijiro/AIShader)
